@@ -19,3 +19,8 @@ This application uses the following technologies:
 - JavaScript
 - QR Server [API](https://api.qrserver.com/v1/create-qr-code/)
 
+### Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+### License
+This project is licensed under the MIT License. 

@@ -10,3 +10,12 @@ To use this application, simply open the index.html file in your web browser. Yo
 3. The QR code image will be generated and displayed on the page.
 
 If you do not enter any text into the text area, a default image will be displayed instead.
+
+### Technologies Used
+This application uses the following technologies:
+
+- HTML
+- CSS
+- JavaScript
+- QR Server [API](https://api.qrserver.com/v1/create-qr-code/)
+

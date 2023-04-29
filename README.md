@@ -11,6 +11,12 @@ To use this application, simply open the index.html file in your web browser. Yo
 
 If you do not enter any text into the text area, a default image will be displayed instead.
 
+# Screenshots
+Here's a screenshot of the QR code generaator
+<p align="justified">
+  <img width="" height="" src="https://github.com/AntonyGN/Qr_code-generator/blob/main/img.png">
+</p>
+
 ### Technologies Used
 This application uses the following technologies:
 
